@@ -8,3 +8,6 @@
 
 ![Customer Checkout](https://user-images.githubusercontent.com/73686535/137701564-ac7f675b-ae5e-45f9-b748-9645ba5f9d91.png)
 
+
+![Employee Tabs](https://user-images.githubusercontent.com/73686535/137701719-ab460cc1-4b0b-4c2d-b152-5aeb02345f6b.png)
+
