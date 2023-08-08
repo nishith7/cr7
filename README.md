@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer. Data Scientist. Footballer. Cricketer. (enough bragged).
 ---------------------------------------------------------------------------
 
-I'm a Software Engineer intern currently working at Tech Holding,Ahmedabad.
+I'm a Jr. Software Engineer currently working at Tech Holding,Ahmedabad.
 
 * 🌍  I'm based in Junagadh, India
 * ✉️  You can contact me at [nishith.upadhya@gmail.com](mailto:nishith.upadhya@gmail.com)
